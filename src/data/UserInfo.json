@@ -1,0 +1,10 @@
+{
+ "userName" : "Arjun",
+ "location": {
+
+  "city" :"mumbai",
+  "state":"Maharshtra",
+  "country":"India"
+ }
+
+}
